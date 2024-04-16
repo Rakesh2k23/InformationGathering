@@ -1,8 +1,8 @@
 # InformationGathering
 Information Gathering Techiques
 ```
-Rakesh Kumar.S
-212221040137
+HARI HARAN L K
+212221040051
 CSE (III)
 ```
 # To perform information gathering techniques
@@ -33,22 +33,19 @@ http://www.whois.com/whois website to get detailed information about a domain na
 
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/bc2f096c-5019-4539-b58d-70374c2bd538)
-
+![1 whois](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/8db34062-09e8-4d89-b0c5-9cf1eedf2962)
 
 # Finding IP address:
 ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of facebook.com.
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/99b4b518-e723-4228-b7e8-fa84b3ea1e94)
-
+![2 ping](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/824e5c0e-3189-447e-b963-8c3f6f7f037d)
 
 # Finding Hosting Company
 get further detail by using ip2location.com website.
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/49214f31-22cd-423d-9f51-2b46cb5e1c1f)
-
+![3 ip2location](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/8c36cbf6-6267-4e37-aecd-6e229720add8)
 
 # History of the website:
 ```
@@ -56,8 +53,7 @@ https://web.archive.org/
 ```
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/541a42e9-02ff-47fa-ac2d-a9ed91ca492a)
-
+![4 web archive](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/bc8d5267-3942-4e0b-9dc7-785edeceefc0)
 
 # Webserver Fingerprinting:
 
@@ -67,61 +63,51 @@ GET / HTTP/1.1
 Host: example.com
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/2d1cb00c-5bd4-4d66-8956-a6301dacd0ae)
-
+![5 nc command](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/e80301ec-c5f4-4bb9-bd2f-0480d7ec2c4d)
 
 ## nmap:
 ## #output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/fb840480-094a-4101-afff-122ccfdd23d7)
-
-
+![6 nmap](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/d191d6e3-005d-438f-90aa-c97794b2e3d1)
 
 # Whatweb
 ## output
 
-  ![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/509e35ed-fd7f-4483-b0f6-281d7b6e4314)
-
-
+![7 whatweb](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/ae56c986-cbf2-4367-8d4a-f6cc49a23de4)
 
 # httprint
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/b6968d8d-31ad-49a6-b566-a8a23dde04fe)
-
+![8 httprint](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/d8c34241-4036-469f-a7ff-ce8f6eabf26a)
 
 # Tracing the Location
 TCP Traceroute:
 sudo traceroute -T www.google.com
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/17bc20e8-8319-4fd9-9937-ad9c45cb9730)
-
+![9 tcp traceroute](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/83b41159-bb32-4407-8e02-c56b7dc148bc)
 
 # UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/6e37892b-332a-4153-a2a5-6b858083f8ed)
-
+![9 udp traceroute](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/99364561-8bbe-4d5a-b8d3-06f51a66f291)
 
 # ICMP Traceroute:
 sudo traceroute  www.google.com
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/df891a78-278b-46fb-965a-26548e7fc969)
-
+![9 ICMP traceroute](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/69fcc942-e9ec-4bd3-aea1-116f5b938afa)
 
 # Netcraft
 ## output
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/8dbaf351-da4e-40eb-bf6b-04d544434259)
 
+![10 netcraft](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/6f2f02ad-cbfa-442b-806d-b0b136bd89a7)
 
 # Wapplyzer
 ## output
 
-![image](https://github.com/Rakesh2k23/InformationGathering/assets/141472158/13ce3e49-a219-4e03-a589-a68c3ffaeac3)
-
+![11 wappalyzer](https://github.com/HariHaranLK/ETHICAL_HACKING_LAB/assets/132996089/559bd9da-e837-41d8-90ba-a69442632681)
 
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
