@@ -1,8 +1,8 @@
 # InformationGathering
 Information Gathering Techiques
 ```
-HARI HARAN L K
-212221040051
+Rakesh Kumar.S
+212221040137
 CSE (III)
 ```
 # To perform information gathering techniques
